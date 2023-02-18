@@ -2,7 +2,7 @@ Dziękuję za odwiedzenie mojego profilu. Zapraszam do oceny kodu w jednym z udo
 
 1) ConsoleApp - Ćwiczenie z refaktoryzacji kodu
 2) CodinGame - Rozwiązania zadań z codingame.com. Na tę chwilę rozwiązałem około 150 puzzli + 150 innych zadań (boty, clash of code, optymizacja), dodawanie rozwiązań WIP.
-3) PuzzleBallsScripts - Kod do gry która stworzyłem z Bartoszem Krajką w Unity.
+3) PuzzleBallsScripts - Kod do gry która stworzyłem z [Bartoszem Krajką](https://github.com/fernandokokocha) w Unity.
 
 Zapraszam do kontaktu, mail i telefon można uzyskać przez linkedin
 
