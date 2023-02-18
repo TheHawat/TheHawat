@@ -7,6 +7,3 @@ Dziękuję za odwiedzenie mojego profilu. Zapraszam do oceny kodu w jednym z udo
 Zapraszam do kontaktu, mail i telefon można uzyskać przez linkedin
 
 ![CodinGameProfile](https://user-images.githubusercontent.com/54803292/219885226-f888c94d-380b-4791-a5ab-32ef9f93b727.png)
-<iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
-    mozallowfullscreen="true" src="https://play.unity.com/webgl/282ce243-499c-494b-a352-6554ee42cab9?screenshot=false&embedType=embed"  width="810"
-    height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
