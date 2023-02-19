@@ -6,7 +6,7 @@ Thank you for visiting my profile. I invite you to review my code in one of the 
 2) [CodinGame](https://github.com/TheHawat/CodinGame) - Solutions to codingame.com puzzles. At this moment i solved about 150 regular puzzles and about 150 other kind of assignments such as bots, clash of code rounds and optimisation challanges.
 3) [PuzzleBallsScripts](https://github.com/TheHawat/PuzzleBallsScripts) - Code for game i created with [Bartoszem Krajką](https://github.com/fernandokokocha) in Unity. [I invite you to play](https://play.unity.com/mg/other/webgl-builds-288000) few rounds. Code and project structure were group effort, however every asset was drawn by me.
 
-Please dont hesitate to contact me in regards to work, you can reach me through linkedin.
+Please dont hesitate to contact me in regards of work, you can reach me through linkedin.
 
 -----PL-----
 
